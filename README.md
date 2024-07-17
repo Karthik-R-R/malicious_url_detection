@@ -5,6 +5,7 @@ Malicious URL Detection with Machine Learning
 
 Data Set URL : https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
+This project used Django to implement the above problem statement, Also it has rest api's that are configured to use in the backend, Run the files named with "rest_filename.py" for rest api implementation.
 
 ## Deployment
 

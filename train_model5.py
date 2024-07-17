@@ -52,4 +52,4 @@ print(classification_report(y_test, y_pred))
 print(f'Accuracy: {accuracy_score(y_test, y_pred)}')
 
 # Save the model
-joblib.dump(model, './trained_model_new.pkl')
+joblib.dump(model, './trained_model.pkl')

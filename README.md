@@ -8,7 +8,7 @@ Data Set URL : https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
 ## Deployment
 
-To deploy this project run after placing the data set in the same directory
+To deploy this project, run this after placing the data set in the same directory
 
 ```
 python ./train_model5.py
